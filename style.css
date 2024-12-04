@@ -404,7 +404,7 @@ th,td{
     }
 
     .offers,footer{
-        padding: 0;
+        padding: 50px 0 0 0;
     }
 
     body .offers .head .head1 {
